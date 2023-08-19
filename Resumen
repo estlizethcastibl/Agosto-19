@@ -1,0 +1,10 @@
+Si no se establece relacion entre tablas no salen de forma adecuada los datos.
+Elementos graficos que representen la información que se quiere compartir.
+Cuando hay graficos de barra hay dos ejes: Eje x - Eje y.
+Tablas de hechos : Tablas de medidas: Registro historico de mediciones.
+El eje vertical mide la altura, o el valor de las columnas.
+El eje horizontal (categorías) de un gráfico.
+Las tablas de hechos son las que tienen los puntos varios de la relacion
+Granulanidad: Nivel de detalle
+Elemento principal dentro del sistema: Dimensiones
+Elementos que permiten la medicion de controles en el tiempo: Indicadores en SAP
